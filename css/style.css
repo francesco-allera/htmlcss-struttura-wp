@@ -5,17 +5,15 @@
 }
 .container{
   width: 1200px;
-  margin: 0 auto;
+  margin: 20px auto;
 }
 header{
   height: 150px;
   background-color: yellow;
-  margin-top: 20px;
 }
 footer{
   height: 100px;
   background-color: lightblue;
-  margin-bottom: 20px;
 }
 .contain{
   width: 100%;
@@ -41,10 +39,7 @@ footer{
 .block3{
   width: calc(30% - 20px);
   height: 190px;
-  margin-left: 20px;
-}
-.block4{
-
+  margin: 0 0 10px 20px;
 }
 .pink{
   background-color: pink;
